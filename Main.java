@@ -34,7 +34,7 @@ public class Main {
                 filter(x -> x.getPosition() == Position.ENGINEER).
                 forEach(x -> System.out.println(x.getFirstName() + " " + x.getSecondName()));
     }
-
+    //Some comment added
     public static void worker(Work w) {
         w.doWork();
     }
