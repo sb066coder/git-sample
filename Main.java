@@ -36,6 +36,7 @@ public class Main {
     }
     //Some comment added
     //Some comment #2 added
+    //Some comment #3 added
     public static void worker(Work w) {
         w.doWork();
     }
