@@ -35,6 +35,7 @@ public class Main {
                 forEach(x -> System.out.println(x.getFirstName() + " " + x.getSecondName()));
     }
     //Some comment added
+    //Some comment #2 added
     public static void worker(Work w) {
         w.doWork();
     }
